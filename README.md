@@ -7,7 +7,6 @@ The tool utilizes a buffer overflow technique to determine the offset where the 
 ## Requirements
 
 - Python 3.x
-- [Add any other requirements here]
 
 ## How to Use
 
