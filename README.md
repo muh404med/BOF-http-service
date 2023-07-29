@@ -1,11 +1,3 @@
-# BOF-http-service
-
-This script able to inform you the exact offset code that smash the service ex v10.0.28 without need to msf-passtern tool just 
-
-first this you start service 
-then you will get nearly offset and service will stop copy the nearlly ofset the restart serice 
-the past nearly offset to script and you will get the exact offset number 
-
 
 # Exact Offset Finder
 
