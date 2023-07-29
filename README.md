@@ -1,7 +1,7 @@
 
 # Exact Offset Finder
 
-This Python script helps find the exact offset number that can potentially cause a service crash example " Sync Breeze Enterprise v10.0.28" .
+This Python script helps find the exact offset number that can potentially cause a service crash example "Sync Breeze Enterprise v10.0.28" .
 The tool utilizes a buffer overflow technique to determine the offset where the service crashes, without requiring the msf-passtern tool.
 
 ## Requirements
